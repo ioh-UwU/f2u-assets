@@ -1,5 +1,6 @@
 # f2u-refs
 Collection of free-to-use reference sheet bases. All art by me.
+(Using github for this because zip files are suspicious)
 
 ========================== CREDIT ==========================
 
