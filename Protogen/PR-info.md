@@ -1,4 +1,4 @@
-##Names of the PNGs in these folders are the type of tail the base uses.
+Names of the PNGs in these folders are the type of tail the base uses.
 
 What started as a personal ref sheet for my protogen, ioh,
 ended up becoming a handful of F2U bases after adding a few 
