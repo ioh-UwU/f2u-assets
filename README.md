@@ -1,6 +1,6 @@
-# f2u-refs
-Collection of free-to-use reference sheet bases. All art by me.
-(Using github for this because zip files are suspicious)
+# f2u-assets
+Collection of free-to-use assets. All art by me.
+(Using github for this because zip files are suspicious and also it's funny)
 
 ========================== CREDIT ==========================
 
